@@ -24,7 +24,7 @@
   ## 📊 GitHub Stats
 
   ![](https://github-readme-stats-ten-chi-13.vercel.app/api?username=flaviareisv&theme=tokyonight&show_icons=true&rank_icon=github)
-  [![GitHub Streak](https://github-readme-streak-stats-sooty-rho.vercel.app/?user=flaviareisv&theme=tokyonight&mode=weekly)
+  ![GitHub Streak](https://github-readme-streak-stats-sooty-rho.vercel.app/?user=flaviareisv&theme=tokyonight&mode=weekly)
 
   ## ⏳ WakaTime Stats
 

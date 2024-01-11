@@ -26,12 +26,6 @@
   ![](https://github-readme-stats-ten-chi-13.vercel.app/api?username=flaviareisv&theme=tokyonight&show_icons=true&rank_icon=github)
   ![GitHub Streak](https://github-readme-streak-stats-sooty-rho.vercel.app/?user=flaviareisv&theme=tokyonight&mode=weekly)
 
-  ## ⏳ WakaTime Stats
-
-  ![WakaTime stats](https://github-readme-stats-ten-chi-13.vercel.app/api/wakatime?username=flaviareisv&layout=compact&langs_count=10&theme=tokyonight)
-
-  [![wakatime](https://wakatime.com/badge/user/018b8825-c480-449f-83f3-134a5d184005.svg)](https://wakatime.com/@018b8825-c480-449f-83f3-134a5d184005)
-
   ## ✍️ Random Dev Quote
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)

@@ -23,7 +23,7 @@
 
   ## 📊 GitHub Stats
 
-  ![](https://github-readme-stats-ten-chi-13.vercel.app/api?username=flaviareisv&theme=tokyonight&show_icons=true&rank_icon=github)
+  ![](https://github-readme-stats-nine-omega-95.vercel.app/api?username=flaviareisv&theme=tokyonight&show_icons=true&rank_icon=github)
   ![GitHub Streak](https://github-readme-streak-stats-sooty-rho.vercel.app/?user=flaviareisv&theme=tokyonight&mode=weekly)
 
   ## ✍️ Random Dev Quote
